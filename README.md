@@ -1,2 +1,2 @@
 # linux_test
-hello
+리눅스 연습해보자 ~ !!
